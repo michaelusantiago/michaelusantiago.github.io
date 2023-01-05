@@ -89,7 +89,7 @@
                     <a class="school svelte-10r4o3r" href="https://sti.edu" target="_blank" rel="noreferrer">Sytems Technology Institute</a></div></div></div> 
 
         
-        <div class="body svelte-10r4o3r"><p class="year svelte-10r4o3r">1999 - 2000</p> 
+        <div class="body svelte-10r4o3r"><p class="year svelte-10r4o3r">1995 - 1999</p> 
             <div class="wrapper svelte-10r4o3r"><b>Secondary</b> 
                 <div class="details"><a class="school svelte-10r4o3r" href="https://pns.edu.ph" target="_blank" rel="noreferrer">Palawan National High School</a></div></div></div> 
 
