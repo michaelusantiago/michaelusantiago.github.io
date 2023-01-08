@@ -72,7 +72,7 @@
             <div class="wrapper svelte-2ajh55"><div class="details"><p class="title svelte-2ajh55">Computer Programmer I</p> 
                     <p><a href="https://onp.doh.gov.ph" target="_blank" rel="noreferrer"><b>Ospital Ng Palawan (DOH)</b></a>
                         @ Information &amp; Communication Technology Unit/Administrative Division, Puerto Princesa City, Palawan, Philppines</p> 
-                    <div class="description svelte-2ajh55"><ul class="svelte-2ajh55"><li>Assist in the implementation of various Information Systems in the Hospital such as the Hospital Operations and Managament Systesm (HOMIS) and other system that will be implemented by the DOH such as Personal Information System (PIS), Payroll System, etc..</li> 
+                    <div class="description svelte-2ajh55"><ul class="svelte-2ajh55"><li>Assist in the implementation of various Information Systems in the Hospital such as the Hospital Operations and Management System (HOMIS) and other system that will be implemented by the DOH such as Personal Information System (PIS), Payroll System, etc..</li> 
                             <li>Troubleshoots and conducts regular monthly monitoring and maintenance of computer (hardware and software), network and telecommunications system installed.</li> 
                             <li>Designs and develops computerized system when needed.</li> 
                             <li>Provide technical assistance to Ospital Ng Palawan personnel on matters regarding Information and Communication Technology.</li> 
